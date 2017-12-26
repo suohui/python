@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DiscardAnalysisAndSpeedRef", "DiscardAnalysisAndSpeedRef\DiscardAnalysisAndSpeedRef.pyproj", "{BE11E46B-A0E9-4284-9262-11EAF8A286FC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DiscardError", "DiscardError\DiscardError.pyproj", "{5434BA22-3CD8-45B0-A69C-C9822EA55CF1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NoErrorNoIncomeAnalysis", "NoErrorNoIncomeAnalysis\NoErrorNoIncomeAnalysis.pyproj", "{E11AEA6E-854A-4C09-B99E-CA0592FFE5E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE11E46B-A0E9-4284-9262-11EAF8A286FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE11E46B-A0E9-4284-9262-11EAF8A286FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5434BA22-3CD8-45B0-A69C-C9822EA55CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5434BA22-3CD8-45B0-A69C-C9822EA55CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11AEA6E-854A-4C09-B99E-CA0592FFE5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11AEA6E-854A-4C09-B99E-CA0592FFE5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62862468-47C3-4488-9A97-B3B419E6AB2F}
+	EndGlobalSection
+EndGlobal
